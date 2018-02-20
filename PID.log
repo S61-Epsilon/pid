@@ -1,0 +1,275 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.20)  20 FEB 2018 13:16
+entering extended mode
+**./PID.tex
+(PID.tex
+LaTeX2e <2017-04-15>
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\repor
+t.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size1
+0.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\input
+enc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin
+1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+smath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+msfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\a
+mssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) (PID.aux)
+\openout1 = `PID.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks23
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek
+\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+
+("C:\Users\indie Peeters\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
+msb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/indie Peeters/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+! LaTeX Error: File `chapters/UserStories.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.12 	\input{chapters/UserStories.tex}
+                                      
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 2386 strings out of 493303
+ 33307 string characters out of 3126302
+ 86630 words of memory out of 3000000
+ 5912 multiletter control sequences out of 15000+200000
+ 8584 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,272b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
